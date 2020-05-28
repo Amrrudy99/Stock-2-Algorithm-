@@ -1,0 +1,1 @@
+start /min Linear_Search.bat
